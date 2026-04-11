@@ -1,0 +1,78 @@
+- generic [ref=e558]:
+  - complementary [ref=e559]:
+    - generic [ref=e560]:
+      - generic [ref=e561]:
+        - generic [ref=e562]:
+          - generic [ref=e563]: FQ
+          - generic [ref=e564]:
+            - heading "FinIQ Assistant" [level=1] [ref=e565]
+            - generic [ref=e566]: Online
+        - generic [ref=e568]:
+          - button "Switch language to English" [ref=e569]: EN
+          - button "Cambiar idioma a Espanol" [ref=e570]: ES
+      - generic [ref=e572]:
+        - generic [ref=e573]:
+          - text: Hi! I'm FinIQ. I'll help you build a personalized investment portfolio.
+          - strong [ref=e574]: How much are you looking to invest?
+          - text: (e.g. $5,000)
+        - generic [ref=e575]: 22:32
+      - generic [ref=e576]:
+        - generic [ref=e577]:
+          - textbox "Ask about your portfolio..." [ref=e578]
+          - button [ref=e579]:
+            - img [ref=e580]
+        - generic [ref=e583]:
+          - generic [ref=e584]:
+            - img [ref=e585]
+            - text: Smart Analysis
+          - generic [ref=e588]:
+            - img [ref=e589]
+            - text: Live Sync
+  - main [ref=e594]:
+    - generic [ref=e595]:
+      - generic [ref=e596]:
+        - generic [ref=e597]:
+          - generic [ref=e598]:
+            - img [ref=e599]
+            - text: Intelligence Dashboard
+          - heading "Your Portfolio" [level=2] [ref=e604]
+        - generic [ref=e605]:
+          - generic [ref=e608]: Market Live
+          - generic [ref=e609]: MAR 24, 2026
+      - generic [ref=e610]:
+        - generic [ref=e611]:
+          - img [ref=e613]
+          - generic [ref=e616]:
+            - generic [ref=e617]: Total Capital
+            - generic [ref=e618]: $0
+        - generic [ref=e619]:
+          - img [ref=e621]
+          - generic [ref=e623]:
+            - generic [ref=e624]: Time Horizon
+            - generic [ref=e625]: 0 Years
+        - generic [ref=e626]:
+          - img [ref=e628]
+          - generic [ref=e631]:
+            - generic [ref=e632]: Risk Profile
+            - generic [ref=e633]: MODERATE
+        - generic [ref=e634]:
+          - img [ref=e636]
+          - generic [ref=e639]:
+            - generic [ref=e640]: Strategy
+            - generic [ref=e641]: OPTIMIZED
+      - generic [ref=e642]:
+        - generic [ref=e643]:
+          - img [ref=e644]
+          - generic [ref=e647]: "!"
+        - heading "Start Your Journey" [level=2] [ref=e648]
+        - paragraph [ref=e649]: Our AI assistant is waiting to help you build a professional investment strategy. Complete the 3-step onboarding to unlock your dashboard.
+        - generic [ref=e650]:
+          - generic [ref=e651]:
+            - img [ref=e652]
+            - text: Bank-Grade Security
+          - generic [ref=e655]:
+            - img [ref=e656]
+            - text: Global Assets
+          - generic [ref=e659]:
+            - img [ref=e660]
+            - text: Real-time Data
